@@ -5,7 +5,9 @@ var Dennis = {
   code: [Python, Java, C#, C++, Scala, SQL, HTML, CSS. JavaScript],
   tools: [PyTorch, TensorFlow, Keras, openai gym, TensorBoard, openCV, Pandas, Scikit-learn, Spark NLP, Postgres, ROS],
 
-  about: "I am currently completing my bachelor's degree at the HTW in applied computer science. In the summer semester I will start my master in computer science at the FU Berlin. \n
-          Currently I am working in a team that works on Artificial Intelligence in Industy. \n
-           I am passionate about robots in AI, cooking, and have a mechatronics background."
+  about: "I am about to to finish my bachelor's degree at University of Applied Sciences – HTW Berlin and already enrolled for a masters class at Freie     Universität Berlin.\n
+
+      Aside to my studies I develop deep learning models for a company manufacture special purpose machinery.\n
+
+      I am passionate about the combined application of robotics and artificial intelligence and have a professional background in the field of mechatronics.""
 }```
