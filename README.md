@@ -10,6 +10,6 @@ var Dennis = {
 
           Aside to my studies I develop deep learning models for a company manufacture special purpose machinery.\n
 
-      I am passionate about the combined application of robotics and
-      artificial intelligence and have a professional background in the field of mechatronics.""
-}```
+          I am passionate about the combined application of robotics and
+          artificial intelligence and have a professional background in the field of mechatronics."
+}
